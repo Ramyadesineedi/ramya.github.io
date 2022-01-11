@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "dark" # "air" , "default", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shanmukha Teja Juttu"
+title                    : "Ramya Madhuri Desineedi"
 title_separator          : "-"
-name                     : "Teja Juttu" #####Doesn't change anything?
+name                     : "Ramya Desineedi" #####Doesn't change anything?
 description              : "Data Science Projects" #####Doesn't change anything?
-url                      : "https://tejajuttu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ramya.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "gmadhu89/tejajuttu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Ramyadesineedi/ramya.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
